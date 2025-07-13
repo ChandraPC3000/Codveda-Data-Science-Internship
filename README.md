@@ -7,7 +7,7 @@ This repo contains all the tasks I completed during my **Data Science Internship
 
 ## 🚀 Overview
 
-Throughout the internship, I explored various aspects of data analytics including:
+Throughout the internship, I explored various aspects of data science including:
 
 - Data Collection and Web Scraping
 - Data Cleaning and Preprocessing
@@ -29,7 +29,7 @@ Each task is organized clearly by level and includes code notebooks, visuals, an
 ## 📊 Power BI Dashboard
 
 View my interactive Power BI dashboard here:  
-🔗 [Power BI Report]([https://app.powerbi.com/groups/me/reports/41c7e6b7-94cb-4db8-81ba-d5a0a2bb6b64?ctid=ec74235e-47f6-4a95-b26e-3a8cba0a97b9&pbi_source=linkShare](https://app.powerbi.com/groups/me/reports/41c7e6b7-94cb-4db8-81ba-d5a0a2bb6b64?ctid=ec74235e-47f6-4a95-b26e-3a8cba0a97b9&pbi_source=linkShare))
+🔗 [Power BI Report](https://public.tableau.com/app/profile/chandra.putra.ciptaningtyas/viz/shared/7PJ6KSGZ5)
 
 ---
 
