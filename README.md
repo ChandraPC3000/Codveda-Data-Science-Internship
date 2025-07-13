@@ -1,11 +1,11 @@
-# 🧠 Codveda Internship - Data Science Projects
+# 🤖 Codveda Internship - Data Science Projects
 
-Welcome to my internship project repository for **Codveda Technologies**!  
-This repo contains all the tasks I completed during my **Data Science Internship**, covering three levels: Basic, Intermediate, and Advanced.
+Welcome to the repository for my internship project at **Codveda Technologies**!    
+This repository includes all the tasks I worked on during my **Data Science Internship**, spanning three different levels: Basic, Intermediate, and Advanced.
 
 ---
 
-## 🚀 Overview
+## 📋 Overview
 
 Throughout the internship, I explored various aspects of data science including:
 
@@ -26,40 +26,70 @@ Each task is organized clearly by level and includes code notebooks, visuals, an
 
 ---
 
-## 📊 Power BI Dashboard
+## 📊 Tableau Dashboard
 
-View my interactive Power BI dashboard here:  
-🔗 [Power BI Report](https://public.tableau.com/app/profile/chandra.putra.ciptaningtyas/viz/shared/7PJ6KSGZ5)
+View my interactive Tableau dashboard here:  
+🔗 [Tableau Report](https://public.tableau.com/app/profile/chandra.putra.ciptaningtyas/viz/shared/7PJ6KSGZ5)
 
 ---
 
 ## 🛠️ Tools & Libraries
 
 - **Languages:** Python  
-- **Libraries:** `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`, `nltk`, `TextBlob`  
-- **Tools:** Power BI, Jupyter Notebook
+- **Libraries:** 
+    - **Pandas** for data manipulation and cleaning
+    - **NumPy** for numerical operations
+    - **Matplotlib** and **Seaborn** for data visualization
+    - **Scikit-learn** for machine learning algorithms and tools
+    - **TensorFlow** and **Keras** for neural networks and deep learning models
+    - **BeautifulSoup** and **Selenium** for web scraping
+    - **NLTK** and **spaCy** for Natural Language Processing (NLP)
+    - **Statsmodels** for statistical models
+    - **XGBoost** for boosting algorithms
+- **Tools:** 
+    - **Jupyter Notebook** for interactive coding and analysis
+    - **Git** for version control and collaboration
+    - **VS Code** for Python development
+    - **Google Colab** for cloud-based computing and collaboration
+    - **Docker** for containerized environments (if applicable)
+    - **AWS** (Amazon Web Services) for cloud services and deployment (if applicable)
+    - **MySQL/PostgreSQL** for database management (if applicable)
 
 ---
 
 ## 🎓 What I Learned
 
-✅ Real-world data preprocessing & cleaning  
-✅ Building and evaluating ML models  
-✅ Creating insightful visualizations  
-✅ Performing NLP and sentiment analysis  
-✅ Building and publishing dashboards in Power BI
+✅ Gained experience in collecting and scraping data from various online sources using libraries like **BeautifulSoup** and **Selenium**.
+
+✅ Learned to clean and preprocess datasets by handling missing values, dealing with outliers, and normalizing/standardizing data for analysis.
+
+✅ Mastered techniques for visualizing and summarizing data, identifying trends, and exploring relationships using **Pandas**, **Matplotlib**, and **Seaborn**.
+
+✅ Applied regression models (such as Linear Regression) to predict numerical values and assess model performance through metrics like RMSE and R².
+
+✅ Developed a solid understanding of classification techniques, particularly **Logistic Regression**, for predicting categorical outcomes and evaluating performance through accuracy and confusion matrices.
+
+✅ Explored clustering techniques like **K-Means** and **Hierarchical Clustering** for grouping similar data points without labeled outputs.
+
+✅ Gained expertise in analyzing temporal data, forecasting future trends, and handling time series with libraries like **statsmodels**.
+
+✅ Built models for text classification using **NLP** techniques like tokenization, vectorization, and sentiment analysis with **spaCy** and **NLTK**.
+
+✅ Worked on building and training deep learning models using **TensorFlow** and **Keras**, including neural networks for classification tasks.
+
 
 ---
 
 ## 🙏 Acknowledgements
 
-Big thanks to **Codveda Technologies** for providing this incredible learning opportunity and mentorship.  
-Check them out at [codveda.com](http://www.codveda.com)
+A heartfelt thank you to **Codveda Technologies** for offering such a fantastic learning experience and for the valuable mentorship throughout this journey.  
+Feel free to explore their work at [codveda.com](http://www.codveda.com)
 
 ---
 
-## 📬 Connect with Me
+## 📬 Get in Touch
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/chandra-putra-ciptaningtyas/) or check out my other projects!
+Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/chandra-putra-ciptaningtyas/) or explore my other projects!
+
 
 
