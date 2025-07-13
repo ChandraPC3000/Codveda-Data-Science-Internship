@@ -1,7 +1,7 @@
-# 🧠 Codveda Internship - Data Analytics Projects
+# 🧠 Codveda Internship - Data Science Projects
 
 Welcome to my internship project repository for **Codveda Technologies**!  
-This repo contains all the tasks I completed during my **Data Analytics Internship**, covering three levels: Basic, Intermediate, and Advanced.
+This repo contains all the tasks I completed during my **Data Science Internship**, covering three levels: Basic, Intermediate, and Advanced.
 
 ---
 
@@ -9,14 +9,15 @@ This repo contains all the tasks I completed during my **Data Analytics Internsh
 
 Throughout the internship, I explored various aspects of data analytics including:
 
-- Data Cleaning & Preprocessing
+- Data Collection and Web Scraping
+- Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
-- Data Visualization
-- Regression & Time Series Analysis
-- Clustering (K-Means)
-- Classification Models
-- Natural Language Processing (NLP)
-- Dashboarding with Power BI
+- Predictive Modeling (Regression)
+- Classification with Logistic Regression
+- Clustering (Unsupervised Learning)
+- Time Series Analysis
+- Natural Language Processing (NLP) - Text Classification
+- Neural Networks with TensorFlow/Keras
 
 Each task is organized clearly by level and includes code notebooks, visuals, and documentation.
 
@@ -59,6 +60,6 @@ Check them out at [codveda.com](http://www.codveda.com)
 
 ## 📬 Connect with Me
 
-Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ardi-gunawan-pratama?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) or check out my other projects!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/chandra-putra-ciptaningtyas/) or check out my other projects!
 
 
