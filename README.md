@@ -1,5 +1,3 @@
----
-
 # 🤖 Codveda Internship - Data Science Projects
 
 Welcome to the repository for my internship project at **Codveda Technologies**!    
